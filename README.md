@@ -1,2 +1,2 @@
-# test
-test repository for me
+# Learning Python
+Learning to use python basic code and examples 
